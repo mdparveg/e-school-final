@@ -1,0 +1,117 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+
+}
+.navigator{
+    background-color: #F0FFF0;
+}
+.navbar-nav a{
+    font-weight: 510;
+    margin: 0 15px;
+}
+#sign{
+    background-color: #21B573;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 28px;
+
+}
+.second{
+    background-color: #F0FFF0;
+}
+.highlight{
+    font-size: 16px;
+    color: #fd511a;
+}
+h1.learn{
+    font-size: 48px;
+    font-weight: bolder;
+}
+span{
+    color: #21B573;
+}
+button.start{
+    background-color: #21B573;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 33px;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+    background-image: linear-gradient(45deg, white, black);
+}
+.book{
+    background-color: #F8FFFB;
+    text-align: center;
+    padding: 20px 0;
+
+    transition: all 0.5s ease-in-out;
+}
+.book img{
+    height: 85px;
+    width: 66px;
+}
+.book:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.margin{
+    margin-bottom: 50px;
+}
+.card{
+    height: 483px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 4px lightgray;
+    transition: all 0.5s;
+}
+.card:hover{
+    box-shadow: 2px 2px 5px 4px gray;
+    cursor: pointer;
+}
+button.course{
+    background-color: #21B573;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 33px;
+    border: none;
+}
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: white;
+}
+.card-footer img{
+    width: 24px;
+    height: 24px;
+}
+.third img{
+    height: 120px;
+    width: 120px;
+}
+h1{
+    font-weight: 700;
+}
+.form{
+    border: 1px solid;
+}
+.form-text{
+    background-color: rgb(72, 226, 154);
+}
+.last{
+    color: white;
+    background-color: #282531;
+}
+ul{
+    list-style-type: none;
+}
+ul.course{
+    font-size: 10px;
+}
+ul li a{
+    color:white;
+    font-size: small;
+}
